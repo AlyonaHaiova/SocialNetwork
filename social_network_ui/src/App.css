@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+* {
+  font-family: 'Arvo', serif;
+}
+
+.rowC {
+  display:flex; flex-direction:row;
+}
+
+.centered {
+  margin-left: auto!important;
+  margin-right: auto!important;
+}
+
+.width90 {
+  width: 90%;
+}
+
+.fl-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.list {
+  margin-top: 5rem;
+}
+.list > li {
+  margin-bottom: 2rem;
+}
+
+

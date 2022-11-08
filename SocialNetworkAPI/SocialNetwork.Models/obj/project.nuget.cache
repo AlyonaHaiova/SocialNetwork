@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DaH/uBOmQ6S5v67L23Tizr0g9lo2HF2fYNa5iFVmA67nuQDP8Q5gLBZKWKXnWuyWlZsavDti1PCvFBFxijKZlg==",
+  "success": true,
+  "projectFilePath": "D:\\kpi\\SN\\SocialNetwork\\SocialNetworkAPI\\SocialNetwork.Models\\SocialNetwork.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alena\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\alena\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\alena\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

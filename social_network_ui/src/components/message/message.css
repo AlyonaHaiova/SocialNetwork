@@ -1,0 +1,74 @@
+.message-form > input[type="text"] {
+    overflow: scroll;
+    white-space: nowrap;
+    box-sizing: border-box;
+    width: 100%;
+    height: calc(3em + 2px);
+    margin: 0 0 1em;
+    padding: 1em;
+    border: 1px solid #ccc!important;
+    border-radius: 1.5em!important;
+    background: #fff;
+    resize: none;
+    outline: none;
+}
+
+.message-form > input[type="text"]:focus {
+    border-color: #00bafa;
+}
+
+.message-form {
+    margin-left: 2rem!important;
+}
+.messages {
+    width: 100%!important;
+}
+.send-btn {
+    margin-left: 1rem!important;
+    float: right!important;
+}
+
+.message {
+    width: 60%;
+    position: relative;
+    margin-bottom: 2rem;
+    padding: 1rem;
+    box-shadow: 3px 2px 4px #9d8686;
+    border-radius: 10px;
+    word-wrap: break-word;
+}
+
+.list {
+    width: 60%;
+}
+
+.ms-right {
+    float: right;
+    text-align: right;
+    background-color: #D1F2F3;
+}
+
+.ms-left {
+    float: left;
+    text-align: left;
+    background-color: #B4E6E8;
+}
+
+.ms-header {
+    color: rgba(47,40,43,0.68);
+    font-size: 1rem;
+}
+
+span:first-child {
+    margin-right: 1rem;
+}
+
+.message-form {
+    width: 40%!important;
+}
+
+
+
+
+
+
